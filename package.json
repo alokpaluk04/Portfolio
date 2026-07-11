@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "i'm creating a portfolio web page",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokpaluk04/Portfolio.git"
+  },
+  "author": "Alok Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokpaluk04/Portfolio/issues"
+  },
+  "homepage": "https://github.com/alokpaluk04/Portfolio#readme"
+}
